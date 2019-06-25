@@ -1,6 +1,6 @@
 ---
 title: "YOUR-TITLE"
-date: YYYY-MM-DD
+date: 2019-06-25
 ---
 # Esta es una primera prueba de escritura
 
